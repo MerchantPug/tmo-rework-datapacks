@@ -1,0 +1,8 @@
+{
+  "type": "origins:effect_immunity",
+  "effects": [
+    "minecraft:wither"
+  ],
+  "name": "Infused Veins",
+  "description": "You are immune to the Wither effect."
+}

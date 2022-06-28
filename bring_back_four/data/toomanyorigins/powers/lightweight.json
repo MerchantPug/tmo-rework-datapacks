@@ -1,0 +1,11 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": " health addition",
+    "attribute": "minecraft:generic.max_health",
+    "value": -4.0,
+    "operation": "addition"
+  },
+  "name": "Lightweight",
+  "description": "You have 2 less hearts of health than humans."
+}

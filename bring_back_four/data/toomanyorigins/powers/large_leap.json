@@ -1,0 +1,13 @@
+{
+  "type": "origins:modify_jump",
+  "modifier": {
+    "name": "Bonus jump force while sneaking",
+    "value": 0.75,
+    "operation": "multiply_base"
+  },
+  "condition": {
+    "type": "origins:sneaking"
+  },
+  "name": "Moon Leap",
+  "description": "While sneaking your jump height has increases."
+}

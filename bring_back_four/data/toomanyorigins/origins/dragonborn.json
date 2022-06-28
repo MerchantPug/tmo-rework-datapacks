@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"toomanyorigins:dragon_breath",
+		"toomanyorigins:light_up",
+		"origins:carnivore",
+		"toomanyorigins:no_knockback",
+		"toomanyorigins:loose_scales",
+		"toomanyorigins:zenith_scales"
+	],
+	"icon": "minecraft:dragon_breath",
+	"order": 8,
+	"impact": 1,
+    "name": "Dragonborn",
+    "description": "Half Human, Half Dragon. Their ferocious breath and structure makes the inhabitants of The End bow before them."
+}

@@ -1,0 +1,9 @@
+{
+  "type": "toomanyorigins:modify_soul_speed",
+  "modifier": {
+    "operation": "addition",
+    "value": 1
+  },
+  "name": "Spirit Strider",
+  "description": "You have one extra level of Soul Speed at all times."
+}

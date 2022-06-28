@@ -1,0 +1,11 @@
+{
+  "type": "origins:prevent_sleep",
+  "block_condition": {
+    "type": "origins:light_level",
+    "comparison": ">",
+    "compare_to": 10
+  },
+  "message": "You need less light to sleep",
+  "name": "Photophobia",
+  "description": "You are unable to sleep in bright light."
+}

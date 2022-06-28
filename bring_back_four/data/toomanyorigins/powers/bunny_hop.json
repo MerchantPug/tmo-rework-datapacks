@@ -1,0 +1,14 @@
+{
+  "type": "toomanyorigins:bunny_hop",
+  "min": 0,
+  "max": 60,
+  "hud_render": {
+    "should_render": true,
+    "sprite_location": "toomanyorigins:textures/gui/tmo_resource_bar.png",
+    "bar_index": 7
+  },
+  "increase_per_tick": 0.00025,
+  "tick_rate": 10,
+  "name": "Bunny Hop",
+  "description": "You build up momentum while in the air which is added to your movement speed. You keep built up momentum momentarily while on the ground. You may also gain momentum with your active ability."
+}
