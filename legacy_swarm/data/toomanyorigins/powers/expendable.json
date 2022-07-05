@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+      "name": " health addition",
+      "attribute": "minecraft:generic.max_health",
+      "value": -6.0,
+      "operation": "addition"
+    },
+    "name": "Expendable",
+    "description": "You have 3 less hearts of health than humans."
+  }

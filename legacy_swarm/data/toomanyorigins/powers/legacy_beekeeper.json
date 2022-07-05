@@ -1,0 +1,5 @@
+{
+    "type": "apugli:prevent_bee_anger",
+    "name": "Beekeeper",
+    "description": "Taking honey and honeycomb from a hive does not anger bees."
+}

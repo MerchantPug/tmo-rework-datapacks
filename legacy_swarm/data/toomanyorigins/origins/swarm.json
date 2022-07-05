@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"toomanyorigins:legacy_hover",
+		"toomanyorigins:legacy_hover_toggle",
+		"toomanyorigins:smoke_sensitivity",
+		"toomanyorigins:pollination",
+		"toomanyorigins:calming_aura",
+		"toomanyorigins:expendable",
+		"toomanyorigins:legacy_beekeeper",
+		"toomanyorigins:aerial_affinity",
+		"origins:arthropod"
+	],
+	"icon": "minecraft:honeycomb",
+	"order": 7,
+	"impact": 1
+}
