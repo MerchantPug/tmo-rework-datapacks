@@ -6,5 +6,7 @@
     "modifier": {
       "value": -1,
       "operation": "multiply_total"
-    }
-  }
+    },
+    "name": "Blast Resistant Skin",
+    "description": "You are immune to all forms of explosive damage."
+}

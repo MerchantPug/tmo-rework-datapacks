@@ -29,5 +29,7 @@
             "type": "origins:status_effect",
             "effect": "toomanyorigins:charged"
         }
-    }
+    },
+    "name": "Conductor",
+    "description": "When struck by lightning, you become charged."
 }

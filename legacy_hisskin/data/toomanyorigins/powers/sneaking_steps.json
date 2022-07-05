@@ -5,5 +5,7 @@
       "attribute": "minecraft:generic.movement_speed",
       "value": -0.05,
       "operation": "multiply_base"
-    }
-  }
+    },
+    "name": "Sneaking Steps",
+    "description": "As you are used to sneaking up on your prey, you move slightly slower."
+}

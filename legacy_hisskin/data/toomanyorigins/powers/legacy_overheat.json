@@ -26,5 +26,7 @@
     },
     "amount": 2.0,
     "use_charged": true,
-    "velocity": 1.0
+    "velocity": 1.0,
+    "name": "Overheat",
+    "description": "You can rocket jump away from any object you're looking at. This sets your inner gunpowder on fire harming you in the process."
 }
